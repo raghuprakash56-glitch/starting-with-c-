@@ -1,4 +1,4 @@
-//1.Adding two numbers.
+//Adding two numbers.
 
 #include <stdio.h>
 int main(){
@@ -10,4 +10,5 @@ int main(){
     printf("%d",x+y);
     return 0;
 }
+
 
