@@ -1,9 +1,6 @@
+ /* Print two-digit odd numbers whose tens digit is 7 */
 #include <stdio.h>
-
 int main() {
-
-    /* Print two-digit odd numbers whose tens digit is 7 */
-
     int num = 70;
 
     while (num < 80) {
@@ -17,3 +14,4 @@ int main() {
 
     return 0;
 }
+
