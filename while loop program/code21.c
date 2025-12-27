@@ -1,22 +1,12 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+/*
     Write a program to get a number from the user
     and print the total number of single-digit
     prime numbers in the given number.
-
-    Example:
-    Input : 163496481
-    Output: 1
-
-    Input : 364925
-    Output: 3
     */
-
+#include <stdio.h>
+int main()
+{
     int num, digit, count = 0;
-
     printf("Enter a number: ");
     scanf("%d", &num);
 
@@ -37,3 +27,4 @@ int main()
 
     return 0;
 }
+
