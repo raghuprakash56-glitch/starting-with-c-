@@ -1,9 +1,6 @@
+ /* Print two-digit odd numbers whose sum of digits is 7 */
 #include <stdio.h>
-
 int main() {
-
-    /* Print two-digit odd numbers whose sum of digits is 7 */
-
     int num = 11;
     int sum;
 
@@ -22,3 +19,4 @@ int main() {
 
     return 0;
 }
+
