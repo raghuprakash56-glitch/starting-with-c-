@@ -1,20 +1,11 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get a number from the user
     and print the total number of single digit
     perfect square numbers in the given number.
-
-    Example:
-    Input : 123456789
-    Output: 3
-
-    Input : 987531
-    Output: 2
     */
-
+#include <stdio.h>
+int main()
+{
     int num, digit, count = 0;
 
     printf("Enter a number: ");
@@ -37,3 +28,4 @@ int main()
 
     return 0;
 }
+
