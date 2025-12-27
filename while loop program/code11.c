@@ -1,9 +1,6 @@
+// Calculate and print the sum of all digits of a number entered by the user 
 #include <stdio.h>
-
 int main() {
-
-    /* Calculate and print the sum of all digits of a number entered by the user */
-
     int num, sum = 0, digit;
 
     printf("Enter a number: ");
@@ -19,3 +16,4 @@ int main() {
 
     return 0;
 }
+
