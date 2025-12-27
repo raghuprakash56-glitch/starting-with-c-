@@ -1,9 +1,6 @@
+ /* Print numbers from 5 to 1 using while loop */
 #include <stdio.h>
-
 int main() {
-
-    /* Print numbers from 5 to 1 using while loop */
-
     int i = 5;
 
     while (i >= 1) {
@@ -13,3 +10,4 @@ int main() {
 
     return 0;
 }
+
