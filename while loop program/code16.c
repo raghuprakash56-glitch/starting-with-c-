@@ -1,20 +1,11 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get a number from the user and
     check whether the first two digits (ten's digit and one's digit)
     of the given number form a prime number.
-
-    Example:
-    Input: 359
-    Output: Prime
-
-    Input: 3577
-    Output: Not Prime
-    */
-
+   */
+#include <stdio.h>
+int main()
+{
     int num, lastTwo, i = 2, isPrime = 1;
 
     printf("Enter a number: ");
@@ -53,3 +44,4 @@ int main()
 
     return 0;
 }
+
