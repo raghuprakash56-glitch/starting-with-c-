@@ -1,12 +1,10 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+/*
     Write a program to print the total number
     of single digit prime numbers.
     */
-
+#include <stdio.h>
+int main()
+{
     int num = 2;
     int count = 0;
     int i, isPrime;
@@ -38,3 +36,4 @@ int main()
 
     return 0;
 }
+
