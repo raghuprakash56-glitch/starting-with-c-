@@ -1,13 +1,11 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get a number from the user
     and print the total number of digits
     which are odd in the given number.
     */
-
+#include <stdio.h>
+int main()
+{
     int num, digit, count = 0;
 
     printf("Enter a number: ");
@@ -29,3 +27,4 @@ int main()
 
     return 0;
 }
+
