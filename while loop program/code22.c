@@ -1,12 +1,10 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to print the biggest 4-digit number
     which is divisible by 7 and 9.
     */
-
+#include <stdio.h>
+int main()
+{
     int num = 9999;
 
     while (num >= 1000)
@@ -21,3 +19,4 @@ int main()
 
     return 0;
 }
+
