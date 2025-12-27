@@ -1,9 +1,6 @@
+/* Print two-digit odd numbers below 20 using while loop */
 #include <stdio.h>
-
 int main() {
-
-    /* Print two-digit odd numbers below 20 using while loop */
-
     int i = 11;
 
     while (i < 20) {
@@ -13,3 +10,4 @@ int main() {
 
     return 0;
 }
+
