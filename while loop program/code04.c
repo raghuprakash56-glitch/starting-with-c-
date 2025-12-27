@@ -1,9 +1,6 @@
+/* Print the sum of numbers from 1 to 6 using while loop */
 #include <stdio.h>
-
 int main() {
-
-    /* Print the sum of numbers from 1 to 6 using while loop */
-
     int i = 1;
     int sum = 0;
 
@@ -16,3 +13,4 @@ int main() {
 
     return 0;
 }
+
