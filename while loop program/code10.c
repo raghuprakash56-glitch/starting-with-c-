@@ -1,9 +1,6 @@
+// Count and print the total number of digits in a number entered by the user 
 #include <stdio.h>
-
 int main() {
-
-    /* Count and print the total number of digits in a number entered by the user */
-
     int num, count = 0;
 
     printf("Enter a number: ");
@@ -18,3 +15,4 @@ int main() {
 
     return 0;
 }
+
