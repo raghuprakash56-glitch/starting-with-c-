@@ -1,12 +1,10 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get two numbers from the user
     and print the HCF of those numbers.
     */
-
+#include <stdio.h>
+int main()
+{
     int a, b, hcf = 1;
     int i = 1;
 
@@ -27,3 +25,4 @@ int main()
 
     return 0;
 }
+
