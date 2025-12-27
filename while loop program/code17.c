@@ -1,20 +1,11 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get a 4-digit number from the user
     and print whether the number's middle two digits
     (hundred's digit and ten's digit) is prime.
-
-    Example:
-    Input : 6359
-    Output: Not Prime
-
-    Input : 3537
-    Output: Prime
     */
-
+#include <stdio.h>
+int main()
+{
     int num, middleTwo;
     int i = 2, isPrime = 1;
 
@@ -54,3 +45,4 @@ int main()
 
     return 0;
 }
+
