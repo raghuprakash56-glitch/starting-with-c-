@@ -1,12 +1,10 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
+ /*
     Write a program to get three numbers from the user
     and print the LCM of those numbers.
     */
-
+#include <stdio.h>
+int main()
+{
     int a, b, c, max;
 
     printf("Enter three numbers: ");
@@ -32,3 +30,4 @@ int main()
 
     return 0;
 }
+
