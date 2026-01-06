@@ -16,3 +16,4 @@ void disp_ascend()
         printf("%d\n", i);
     }
 }
+
