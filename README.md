@@ -11,7 +11,6 @@ The repository serves as a **personal knowledge base** as well as a **reference 
 
 ## 📁 Learning Source
 
-* Mentor - Dr.Daniel Raj
 * Instructor - Dr.Balajee Shesadri
 * Learning Platform - ETALVIS.COM
 
