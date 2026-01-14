@@ -22,3 +22,4 @@ int main()
     disp_sum_all_digits();
     return 0;
 }
+
