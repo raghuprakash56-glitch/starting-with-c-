@@ -1,3 +1,15 @@
+1 Fibonacci series
+Write a program that prompts the user to enter a positive integer 'n.' Your program should then generate and display the first 'n' numbers
+of the Fibonacci series. For example, if the user enters '5,' the program should output: 0,1,1,2,3,. If n is not a positive number then print
+Invalid Input.
+Sample Input 1:
+5
+Sample Output 1:
+0,1,1,2,3,
+Sample Input 2:-5
+Sample Output 2:
+Invalid Input
+
 #include <stdio.h>
 int main ()
 {
