@@ -1,3 +1,22 @@
+3 Prime or Composite number
+Scenario :
+10
+As the program runs, it prompts Alex to input a number, and magically, the code reveals whether the number is a
+prime or composite, unlocking the hidden knowledge within the ancient book. Excited, Alex shares the program with
+friends, turning an ordinary day into an extraordinary adventure of code-breaking and discovery.
+Task :
+Craft a program that prompts the user to input a number. The program should then determine whether the
+entered number is a prime or composite number.
+(The statements inside brackets are for your understanding purpose only)
+SAMPLE INPUT 1:
+7 (input)
+SAMPLE OUTPUT1:
+7 is a prime number
+SAMPLE INPUT 2:
+12 (input)
+SAMPLE OUTPUT2:
+12 is a composite number
+
 #include<stdio.h>
 int main ()
 {
