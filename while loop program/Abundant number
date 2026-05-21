@@ -1,1 +1,29 @@
+ Abundant Number
+SCENARIO:
+In the quiet town of Mathville, where numbers roamed freely and equations danced in the air, there lived a young
+programmer named Alex. Alex had a knack for solving numerical puzzles and unravelling the mysteries hidden
+within the digits. One sunny afternoon, as Alex sat in front of their computer, a riddle whispered through the digital
+winds. It spoke of abundant numbers, those elusive integers whose divisors danced in a sum greater than the
+numbers themselves. Intrigued, Alex set out on a quest to craft a program that could decipher the abundant numbers
+from the ordinary.
+Task:
+Craft a program that prompts the user to enter the input. An abundant number is a positive integer for which
+the sum of its proper divisors (excluding itself) is greater than the number itself. Your program should be able to
+take an integer input from the user and check whether a given integer number is an abundant number or not.
+abundant number :
+(i.e) 12
+1+2+3+4+6=16
+16>12
+12 is Abundant number
+(The statements inside brackets are for your understanding purpose only)
+Sample Input 1:
+12 (Input)
+Sample Output 1:
+12 is an Abundant number (Output)
+Sample Input 2:
+7 (Input)
+Sample Output 2:
+7 is not an Abundant number (Output)
 
+
+output :
