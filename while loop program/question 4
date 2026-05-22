@@ -1,1 +1,23 @@
-
+Counted the number of leap and non-leap years
+SCENARIO:
+Once upon a time, in a quaint little town, there was a community of curious individuals who loved exploring the
+mysteries of time. In this town, a group of friends was fascinated by the concept of leap years, those magical extra
+days that appear every four years. Determined to understand more about leap years, they decided to create a
+program that not only identified whether a given year was a leap year but also counted the number of leap and
+non-leap years in the upcoming decade.
+Task:
+The friends gathered around their computers, determined to create a program that would take a user-inputted year,
+determine if it was a leap year, and then count the number of leap and non-leap years in the next decade.
+(The statements inside brackets are for your understanding purpose only)
+Sample Input 1:
+2022 (Input-year)
+Sample Output 1:
+2022isnotaLeapYear.
+LeapYears:3(CountofLeapyearsinthenextdecade)
+Non-LeapYears:7(Countofnon-Leapyearsinthenextdecade)
+SampleInput2:
+2020(Input-year)
+SampleOutput2:
+2020isaLeapYear.
+LeapYears:2
+Non-LeapYears:8
