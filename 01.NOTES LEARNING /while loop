@@ -1,1 +1,10 @@
+while loop
+
+syntax
+while(condition)
+{
+while(condition)
+  {
+  }
+}
 
