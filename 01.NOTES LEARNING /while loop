@@ -7,3 +7,29 @@ while(condition)
   {
   }
 }
+
+
+example:
+
+k=1
+while(k=5)
+{
+a=1;
+while(a<=5)
+{
+printf(%d",a)
+a=a+1;
+}
+printf("\n");
+k=k+1;
+}
+
+output
+
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+
