@@ -33,3 +33,11 @@ void strcon(char *src1, char *src2, char *dst)
 
     *dst = '\0';
 }
+
+
+
+
+
+
+
+
