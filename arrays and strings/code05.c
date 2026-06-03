@@ -27,3 +27,13 @@ void memcpy(int *src, int *dst, int size)
         *(dst + i) = *(src + i);
     }
 }
+
+
+
+
+
+
+
+
+
+
