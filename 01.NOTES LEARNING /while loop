@@ -28,5 +28,14 @@ output
 1 2 3 4 5
 1 2 3 4 5
 1 2 3 4 5
+
+
+when we use only X axis or y axis we want to use only loop
+
+when we use both x axis and y axis in program output we want to use nested loop 
+
+* in old program we made small change the change is (a<=k)
+
+
 1 2 3 4 5
 1 2 3 4 5
