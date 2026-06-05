@@ -37,6 +37,18 @@ when we use both x axis and y axis in program output we want to use nested loop
 
 * in old program we made small change the change is (a<=k)
 
+k=1
+while(a<=k)
+{
+a=1;
+while(a<=k)
+{
+printf("%d",a);
+a=a+1;
+}
+printf("\n")
+k=k+1;
+}
 
 
 
