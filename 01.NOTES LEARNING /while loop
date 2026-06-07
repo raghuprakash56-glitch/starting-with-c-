@@ -59,6 +59,22 @@ output
 1 2 3 4 5
 
 
+k=1
+while(k<=5)
+{
+a=1
+while(a<=k)
+{
+printf("%d",k)
+a=a+1;
+}
+printf("\n")
+k=k+1;
+}
+
+
+
+
 
 
 
