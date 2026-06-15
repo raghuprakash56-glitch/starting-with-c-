@@ -23,6 +23,8 @@ printf("\n");
 k=k+1;
 }
 
+
+
 output
 
 1 2 3 4 5
