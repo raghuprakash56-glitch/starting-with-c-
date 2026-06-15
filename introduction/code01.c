@@ -10,6 +10,3 @@ int main(){
     printf("%d",x+y);
     return 0;
 }
-
-
-
