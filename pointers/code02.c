@@ -39,3 +39,6 @@ void findpos(char *str, char ch, int *positions, int *count)
         index++;
     }
 }
+
+
+
