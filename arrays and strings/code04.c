@@ -34,4 +34,12 @@ void find_2digit_odd_sum7(int *arr, int *count)
             (*count)++;
         }
     }
+
+
+
+
+
+
+
+    
 }
