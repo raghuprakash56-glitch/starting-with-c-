@@ -26,10 +26,3 @@ void increment(int *arr, int n)
         *(arr + i) = *(arr + i) + 1;
     }
 }
-
-
-
-
-
-
-
