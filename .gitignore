@@ -1,0 +1,35 @@
+# Compiled binaries
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.app
+
+# Debug symbols
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Build directories
+build/
+dist/
+cmake-build-debug/
+
+# Object files
+**/*.o
+
+# Backup files
+*.bak
