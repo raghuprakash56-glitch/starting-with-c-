@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+
 struct student {
     int id, Maths, Science;
     struct student *next;
